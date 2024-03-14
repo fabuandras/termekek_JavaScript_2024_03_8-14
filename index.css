@@ -1,0 +1,12 @@
+.hide{
+    display: none;
+}
+
+td {
+    border: 0px solid gray;
+    padding: 15px;
+}
+
+span {
+    color: red;
+}
